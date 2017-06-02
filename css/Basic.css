@@ -1,0 +1,135 @@
+/* CSS Document */
+  .effect
+  {
+  font-family:Calibri, 'Cambria Math', Consolas;
+  font-size-adjust:inherit;
+  font-variant:small-caps;
+  font-stretch:ultra-condensed;
+  }
+  .effect:hover
+  {
+  font-family:Calibri, 'Cambria Math', Consolas;
+  font-size-adjust:inherit;
+  font-variant:small-caps;
+  font-stretch:ultra-condensed;
+  background-color:#FFFFFF;
+  color:#000066;
+  font-size:larger;
+  }
+  .effect_1:hover
+  {
+  font-family:Calibri, 'Cambria Math', Consolas;
+  font-size-adjust:inherit;
+  font-variant:small-caps;
+  font-stretch:ultra-condensed;
+  background-color:#FFFFFF;
+  color:#000066;
+  font-size:xx-large;
+  }
+  body {
+	margin:0;
+	padding:0;
+	width: 100%;
+}
+		.content {
+	width:900px;
+	margin:20px auto;
+	background:#fff;
+	padding:30px;
+}
+
+.changeC
+	{
+	color:#FFFFFF;
+	text-decoration:none;
+	font-size:24px;
+	float:right;
+	margin-right:60px;
+	}
+	.changeC:hover
+	{
+	font-size:24px;
+	color:#333333;
+	border-style:inset;
+	border-radius:50px;
+	}
+	
+	.log
+	{
+		padding-bottom:0px;
+		padding-top:0px;
+		padding-left:10px;
+		padding-right:10px;
+		margin-left:100px;
+		margin-top:20px;
+		font-size:18px;
+		font-family:"Courier New", Courier, monospace;
+		width:400px;
+		border-radius:20px;
+		text-align:center;
+		height:55px;
+	}
+	.logButton
+	{
+		padding-bottom:15px;
+		padding-top:15px;
+		padding-left:30px;
+		padding-right:30px;
+		margin-left:250px;
+		margin-right:50px;
+		margin-top:30px;
+		font-size:24px;
+		font-family:"Courier New", Courier, monospace;
+		width:300px;
+		border-radius:50px;
+		text-align:center;	
+		color:#666666;
+	}
+	.logButton:hover
+	{
+		font-size:24px;
+		font-family:"Courier New", Courier, monospace;
+		border-radius:50px;
+		text-align:center;	
+		background-color:#FFFFFF
+		border-style:inset;
+		color:#000000;
+	}
+	
+	.checkBaux
+	{
+		width:15px;
+		height:15px
+	}
+	
+	div.background {
+	position:absolute;
+	left:0px;
+	top:0px;
+	z-index:-1;
+}
+div.background img {
+	position:fixed;
+	list-style: none;
+	left:0px;
+	top:0px;
+}
+div.background ul li.show {
+	z-index:500
+}
+
+::-webkit-scrollbar {
+width: 10px;
+height: 10px;
+width:10px;
+}
+::-webkit-scrollbar-track-piece  {
+background-color: limegreen;
+width:10px;
+}
+::-webkit-scrollbar-thumb:vertical {
+height: 30px;
+background-color: green;
+width:10px;
+}
+

@@ -1,0 +1,33 @@
+.effect
+  {
+  font-family:Calibri, 'Cambria Math', Consolas;
+  font-size-adjust:inherit;
+  font-variant:small-caps;
+  font-stretch:ultra-condensed;
+  }
+  .effect:hover
+  {
+  font-family:Calibri, 'Cambria Math', Consolas;
+  font-size-adjust:inherit;
+  font-variant:small-caps;
+  font-stretch:ultra-condensed;
+  background-color:#FFFFFF;
+  color:#000066;
+  font-size:larger;
+  }
+  .effect_1:hover
+  {
+  font-family:Calibri, 'Cambria Math', Consolas;
+  font-size-adjust:inherit;
+  font-variant:small-caps;
+  font-stretch:ultra-condensed;
+  background-color:#FFFFFF;
+  color:#000066;
+  font-size:xx-large;
+  }
+  body {
+	margin:0;
+	padding:0;
+	width: 100%;
+}
+		
